@@ -1,0 +1,30 @@
+.one{
+font-size:30px;
+width:500px;
+height:400px
+    color:Red;
+    border: 5px solid orange;
+    padding:5px;
+    text-align:left;
+    margin:50px
+ }
+ .two{
+ font-size:30px;
+ width:500px;
+ height:400px
+     color:green;
+     border: 5px solid blue;
+         padding:5px;
+         text-align:center;
+         margin:50px
+ }
+ .three{
+ font-size:30px;
+ width:500px;
+ height:400px
+     color:blue;
+     border: 5px solid green;
+     padding:5px;
+     text-align:right;
+     margin:50px
+  }
