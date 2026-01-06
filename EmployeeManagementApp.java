@@ -30,7 +30,7 @@ class EmployeeManagementApp {
             System.out.println("3. Exit");
             System.out.print("Enter choice: ");
 
-            choice = sc.nextInt();it status
+            choice = sc.nextInt();
 
 
             switch (choice) {
