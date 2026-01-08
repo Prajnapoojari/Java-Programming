@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JFSJD.iml" filepath="$PROJECT_DIR$/JFSJD.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Core-Java-Basic.iml" filepath="$PROJECT_DIR$/Core-Java-Basic.iml" />
+>>>>>>> 1296e4ca573b2a4ad94e9157fb165d953e926dae
     </modules>
   </component>
 </project>
