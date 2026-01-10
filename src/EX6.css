@@ -1,0 +1,36 @@
+h3{
+font-size:45px;
+color:purple;
+}
+label{
+font-size:25px;
+color:green;
+}
+#placeholder
+{
+font-size:5px;
+color:green;
+}
+fieldset
+{
+border:10px solid green;
+width:400px;
+height:400px
+}
+input
+{
+font-size:25px;
+color:purple;
+}
+input ::placeholder
+{
+color: purple;
+font-style: italic;
+text-align:left;
+}
+button{
+font-size:35px;
+color:purple;
+border:5px;
+background-color:gray;
+}
